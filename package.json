@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dunderdennis/api-integration-simulation/issues"
   },
-  "homepage": "https://github.com/dunderdennis/api-integration-simulation#readme"
+  "homepage": "https://github.com/dunderdennis/api-integration-simulation#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
